@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\ccdesphy\\Documents\\GIT\\DevOps\\DevOps\\MS Dynamic Nav Sanity Test 01\\Res3',namePairs:[]}]};
